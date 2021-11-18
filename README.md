@@ -1,2 +1,2 @@
 # Investigating-Netflix-Movies
-Data Analysis Project
+A Data Analysis Project to filter netflix movies 
